@@ -15,12 +15,12 @@
         "default": "Custom Web Parts"
       },
       "title": {
-        "default": "Custom Quicklinks V2"
+        "default": "Custom Quicklinks"
       },
       "description": {
         "default": "This a custom quicklinks web part that has an option to open links into a new Tab allowing a better user experience"
       },
-      "officeFabricIconFontName": "TestPlan",
+      "officeFabricIconFontName": "OpenInNewTab",
       "properties": {
         "title": "",
         "layoutMode": 0,

@@ -8,10 +8,10 @@
     "includeClientSideAssets": true,
     "isDomainIsolated": false,
     "developer": {
-      "name": "Takeda",
+      "name": "Amiculum Digital",
       "privacyUrl": "",
       "termsOfUseUrl": "",
-      "websiteUrl": "https://github.com/pnp/sp-dev-solutions/tree/master/solutions/LinksAndHandlebarsTemplate",
+      "websiteUrl": "",
       "mpnId": "000000"
     }
   },
